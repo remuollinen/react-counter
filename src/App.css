@@ -31,8 +31,16 @@ main {
 	justify-content: center;
 	align-items: center;
 	margin: 1rem;
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: 700;
+}
+
+.odd {
+	background-color: lightblue;
+}
+
+.even {
+	background-color: lightsalmon;
 }
 
 .button-wrapper {
