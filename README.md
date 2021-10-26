@@ -9,4 +9,6 @@
 - Reset to 0
 - Color changes whether number is even or odd
 
+## Screenshot
+
 ![ScreenShot](screenshot.png)
