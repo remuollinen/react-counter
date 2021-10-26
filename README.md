@@ -8,3 +8,5 @@
 - Remove 1 or 5
 - Reset to 0
 - Color changes whether number is even or odd
+
+![ScreenShot](screenshot.png)
